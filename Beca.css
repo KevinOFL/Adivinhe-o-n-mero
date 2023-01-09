@@ -1,0 +1,79 @@
+body{
+    background-color: blueviolet;
+}
+
+#status{
+    border: 2px solid black;
+    height: 6%;
+    width: 7%;
+    margin-top: -10%;
+    background-color: purple;
+    border-radius: 20px;
+    
+}
+
+#impressao{
+    font-size: 30px;
+    text-align: center;
+}
+
+#container{
+    text-align: center;
+    background-color: purple;
+    border-radius: 22px;
+    height: 12em;
+    width: 84em;
+    border: 3px solid black;
+    margin-left: 10%;
+}
+
+#entrada{
+    background-color: purple;
+    text-align: center;
+    clear:both;
+    margin-bottom: 20px;
+    font-size: 20px;
+    width: 10em;
+    height: 3em;
+    border-radius: 15px;
+    display: none;
+    
+
+}
+
+#btn{
+    background-color: purple;
+    font-size: 200%;
+    font-weight: bold;
+    border-radius: 20px;
+    width: 10em;
+    height: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
+
+#restart{
+    background-color: purple;
+    font-size: 200%;
+    font-weight: bold;
+    border-radius: 20px;
+    width: 10em;
+    height: 2em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
+
+#msg{
+    font-size: 200%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
+
+#tit{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
+
+.txt1{
+    text-align: center;
+}
