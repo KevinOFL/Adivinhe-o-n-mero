@@ -1,3 +1,2 @@
 # Adivinhe-o-número
-Repositório para pequenos projetos de pratica.
-Aqui irei adicionar pequenos projetos de interresse proprimo meu para praticar minhas habilidades de dev.
+Pequeno projeto baseado nos conhecimentos adquiridos no 1º Semestre da faculdade.
